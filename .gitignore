@@ -1,0 +1,23 @@
+# 配置和密钥
+config.json
+.env
+
+# 数据缓存（每个用户的本地数据，不要传 git）
+data/
+
+# 输出报告（每个用户的本地产出，不要传 git）
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+
+# macOS
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
