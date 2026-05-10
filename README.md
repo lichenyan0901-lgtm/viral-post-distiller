@@ -1,6 +1,6 @@
 # Viral Post Distiller
 
-> 拆解抖音爆款 + 帮你写同款的 Claude Code skill。
+> 拆解抖音/小红书爆款 + 帮你写同款的 Claude Code skill。
 > 不只告诉你"为什么这条火"，更直接产出一篇可发布的同款笔记。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -246,13 +246,6 @@ viral-post-distiller/
 - **本 skill 仅供学习和个人内容研究使用**，请勿用于大规模数据抓取或商业转售
 
 ---
-
-## 鸣谢
-
-- 项目灵感来自三个开源 skill：
-  - [chenxiachan/xhs-claude-skills](https://github.com/chenxiachan/xhs-claude-skills) — 小红书数据获取思路
-  - [ALBEDO-TABAI/video-copy-analyzer](https://github.com/ALBEDO-TABAI/video-copy-analyzer) — 字幕提取三级火箭设计
-  - [otter1101/blogger-distiller](https://github.com/otter1101/blogger-distiller) — "脚本 30%、AI 70%" 架构哲学
 
 - 数据来源：[TikHub.io](https://tikhub.io) — 抖音/小红书 API 服务
 
